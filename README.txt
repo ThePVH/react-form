@@ -15,22 +15,3 @@ Features:
 3. Built-in basic validation for required fields, email, and more.
 4. Lightweight with minimal dependencies.
 5. Supports custom validation and error handling.
-
-Installation:
--------------
-
-To install the Simple React Form Component, simply run the following command:
-
-`npm install simple-react-form-component`
-
-Or if you prefer Yarn:
-
-`yarn add simple-react-form-component`
-
-Usage:
-------
-
-1. Import the component:
-
-```javascript
-import SimpleForm from 'simple-react-form-component';
